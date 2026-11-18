@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "post_id": "d360-20261118",
+  "fingerprint": "04224127844b0741d4244ed1cef64135da445ee8be47d0e16c68c231dd04ba54",
+  "status": "SCHEDULED",
+  "updated_at": "2026-11-18T15:08:29.432Z",
+  "publication_date": "2026-11-19T11:00:00-03:00",
+  "networks": {
+    "instagram": {
+      "status": "SCHEDULED",
+      "metricool_id": "432924407",
+      "public_url": null
+    },
+    "tiktok": {
+      "status": "SCHEDULED",
+      "metricool_id": "432964596",
+      "public_url": null
+    },
+    "facebook": {
+      "status": "SCHEDULED",
+      "metricool_id": "432964732",
+      "public_url": null
+    }
+  }
+}
