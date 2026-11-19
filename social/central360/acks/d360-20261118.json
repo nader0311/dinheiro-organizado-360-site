@@ -2,24 +2,24 @@
   "schema_version": 1,
   "post_id": "d360-20261118",
   "fingerprint": "04224127844b0741d4244ed1cef64135da445ee8be47d0e16c68c231dd04ba54",
-  "status": "SCHEDULED",
-  "updated_at": "2026-11-18T15:08:29.432Z",
+  "status": "PUBLISHED",
+  "updated_at": "2026-11-19T11:12:34-03:00",
   "publication_date": "2026-11-19T11:00:00-03:00",
   "networks": {
     "instagram": {
-      "status": "SCHEDULED",
+      "status": "PUBLISHED",
       "metricool_id": "432924407",
-      "public_url": null
+      "public_url": "https://www.instagram.com/p/Df7QTNAii08/"
     },
     "tiktok": {
-      "status": "SCHEDULED",
+      "status": "PUBLISHED",
       "metricool_id": "432964596",
-      "public_url": null
+      "public_url": "https://www.tiktok.com/@dinheiroorganizado360/video/7709883407328644370"
     },
     "facebook": {
-      "status": "SCHEDULED",
+      "status": "PUBLISHED",
       "metricool_id": "432964732",
-      "public_url": null
+      "public_url": "https://facebook.com/122104096701546327/posts/122106772803546327"
     }
   }
 }
